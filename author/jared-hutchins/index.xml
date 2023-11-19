@@ -5,7 +5,11 @@
     <link>/author/jared-hutchins/</link>
       <atom:link href="/author/jared-hutchins/index.xml" rel="self" type="application/rss+xml" />
     <description>Jared Hutchins</description>
+<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2015 00:00:00 +0000</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+>>>>>>> 9a3abf4d7709c63c573c5c9933de7a226625b539
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Jared Hutchins</title>
@@ -13,11 +17,28 @@
     </image>
     
     <item>
+<<<<<<< HEAD
       <title>The Price of Fame: The Effect of Award-Winning Pedigrees on the Price of Livestock Genetics</title>
       <link>/publication/working-paper-4/</link>
       <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
       <guid>/publication/working-paper-4/</guid>
       <description></description>
+=======
+      <title>Job Market Paper</title>
+      <link>/publication/job-market_paper/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/job-market_paper/</guid>
+      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &amp;ndash;&amp;gt;&lt;/p&gt;
+&lt;!-- Click the *Slides* button above to demo Academic&#39;s Markdown slides feature.--&gt;
+&lt;!--
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+>>>>>>> 9a3abf4d7709c63c573c5c9933de7a226625b539
     </item>
     
   </channel>

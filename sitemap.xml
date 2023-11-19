@@ -136,11 +136,14 @@
   </url><url>
     <loc>/publication/working-paper-3/</loc>
     <lastmod>2015-05-15T00:00:00+00:00</lastmod>
+<<<<<<< HEAD
   </url><url>
     <loc>/author/jared-hutchins/</loc>
     <lastmod>2015-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/working-paper-4/</loc>
     <lastmod>2015-05-15T00:00:00+00:00</lastmod>
+=======
+>>>>>>> 9a3abf4d7709c63c573c5c9933de7a226625b539
   </url>
 </urlset>

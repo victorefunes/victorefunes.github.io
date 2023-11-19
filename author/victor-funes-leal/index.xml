@@ -13,7 +13,11 @@
     </image>
     
     <item>
+<<<<<<< HEAD
       <title>Information provision and network externalities (Job Market Paper)</title>
+=======
+      <title>Job market paper</title>
+>>>>>>> 9a3abf4d7709c63c573c5c9933de7a226625b539
       <link>/publication/job-market_paper/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       <guid>/publication/job-market_paper/</guid>
@@ -249,6 +253,7 @@ date: 2019-09-01
       <description></description>
     </item>
     
+<<<<<<< HEAD
     <item>
       <title>The Price of Fame: The Effect of Award-Winning Pedigrees on the Price of Livestock Genetics</title>
       <link>/publication/working-paper-4/</link>
@@ -257,5 +262,7 @@ date: 2019-09-01
       <description></description>
     </item>
     
+=======
+>>>>>>> 9a3abf4d7709c63c573c5c9933de7a226625b539
   </channel>
 </rss>
