@@ -5,12 +5,20 @@
     <link>/tag/source-themes/</link>
       <atom:link href="/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Source Themes</title>
       <link>/tag/source-themes/</link>
     </image>
+    
+    <item>
+      <title>The Price of Fame: The Effect of Award-Winning Pedigrees on the Price of Livestock Genetics</title>
+      <link>/publication/working-paper-4/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/working-paper-4/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Information provision and network externalities (Job Market Paper)</title>
@@ -25,14 +33,6 @@
       <link>/publication/working-paper-1/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/publication/working-paper-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Price of Fame: The Effect of Award-Winning Pedigrees on the Price of Livestock Genetics</title>
-      <link>/publication/working-paper-4/</link>
-      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/working-paper-4/</guid>
       <description></description>
     </item>
     
