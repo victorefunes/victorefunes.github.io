@@ -1,14 +1,13 @@
 ---
-title: "Economic Value of Expected Progeny Differences (EPDs) of Angus cattle in Argentina"
+title: "Measuring Flood Resilience using Remote Sensors"
 authors:
 - admin
-- Nicolas Gatti
-- Ignacio Amaro
-date: "2023-07-07T00:00:00Z"
+
+date: "2021-01-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-07-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Starting in the early 2000s, a boom in demand for agricultural commodities displaced cattle ranching out of the most productive areas of the Pampas’ prairie. The crossbreeds between Angus and Hereford with Brahman, i.e., Brangus and Braford, have been successfully adopted across Argentina. However, little is known about the specific bulls’ traits that drive the demand for cattle genetic selection outside the Pampas. Obtaining the economic value of traits would help to identify the demand for adapting livestock production to different ecosystems while preserving the meat quality of Angus and Hereford cattle. We estimated hedonic price models using Brangus bull sales data from two cattle breeding ranches in the north of Cordoba province. Cattle ranchers prefer observed traits such as weight, coat color, and age, while genetic indicators such as Expected Progeny Differences (EPDs) have secondary importance. We argue that stronger preferences for read-coated bulls, as opposed to black-coated bulls, could be associated with the demand for reducing heat stress; the lack of association between EPDs and prices may be related to unobservable variables such as ranchers’ characteristics and that the value of genetics is implicit in the studs’ reputation.
+abstract: What are the effects of floods on reporting likelihood and observable outcomes? I examine this question in the context of a Randomized Control Trial (Shukla and Baylis, 2019) aimed at adopting a specific new technology for small-scale farmers in Bihar, India. I study two effects; first, to which extent adaptation to a regular rainfall pattern (the South Asian Monsoon) makes farmers under-report the impact of floods/heavy rainfall. To do so, I use inundation maps from satellite-measured floodwater to compare observed and reported floods. Second, given that I can determine which household lives near flooded areas, I measure their impact on food security outcomes. On the one hand, there is significant evidence in favor of under-reporting bias, but I also find little evidence of impacts on food security outcomes.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -30,7 +29,7 @@ tags:
 featured: false
 
 links:
-url_pdf: files/Economic_Value_of_Expected_Progeny_Differences.pdf
+url_pdf: files/Remote_sensors.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

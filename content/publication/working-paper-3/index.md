@@ -1,13 +1,14 @@
 ---
-title: "Assortative Mating and Household Income Inequality in Argentina"
+title: "The Price of Fame: The Effect of Award-Winning Pedigrees on the Price of Livestock Genetics"
 authors:
 - admin
+- Jared Hutchins
 
-date: "2015-05-15T00:00:00Z"
+date: "2024-01-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-05-15T00:00:00Z"
+publishDate: "2023-11-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +20,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: This paper uses the decomposition method of (Greenwood et Al, 2014) to assess the contribution of *Assortative Mating* to household income inequality in Argentina. For this purpose, the Gini coefficient and contingency tables for spouses’ educational attainment are estimated to simulate the outcomes of random mating. Unlike Greenwood, we do not use IPUMS data due to the lack of availability of income data in the Argentine census; we resort instead to household surveys for 21 years. We find that Assortative Mating plays a minor role in the determination of household income inequality; despite explaining about 5% of household income inequality, results have very little robustness to changes in parameters and are also at odds with values of several sorting indicators which show a very modest increase.
+abstract: We estimate the impact of winning an award at a cattle show on the price of cattle genetics and that of their relatives. Dairy farmers choose from various dairy bulls for breeding. These bulls possess genetic traits that reflect their productivity, resiliency to disease, and physical characteristics. Another relevant attribute of dairy bulls is their pedigree prestige, which dairy farmers can use as a proxy for quality. We test the importance of pedigree prestige in determining dairy bull prices by examining the winners and runners-up of "Premier Sire" at the annual World Dairy Expo. Using an event study framework, we find that bulls that win Premiere Sire experience a 10 percent in their price compared to the second-place winner. This impact is also transmitted to their relatives, meaning the effects of prestige spillover into their genetic network.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -29,7 +30,7 @@ tags:
 featured: false
 
 links:
-url_pdf: files/assortative_mating.pdf
+url_pdf: 'files/Price_of_Fame.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

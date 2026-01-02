@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Agricultural and Consumer Economics
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Illinois at Urbana-Champaign
-  url: "https://ace.illinois.edu"
+- name: University of Arkansas
+  url: "https://agribusiness.uark.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Victor Funes-Leal is a doctoral candidate in Agricultural and Consumer Economics at the University of Illinois.
+bio: Victor Funes-Leal is a postdoctoral fellow at the University of Arkansas.
 
 interests:
 - Production Economics
@@ -30,8 +30,8 @@ education:
   courses:
   - course: PhD in Agricultural and Consumer Economics
     institution: University of Illinois at Urbana-Champaign
-    year: 2024 (Expected)
-  - course: MS in Applied Statistics
+    year: 2024
+  - course: MSc in Statistics
     institution: University of Illinois at Urbana-Champaign
     year: 2023
   - course: MA in Economics   
@@ -49,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:victorf2@illinois.edu
+  link: mailto:vf006@uark.edu
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/twitter_handle
@@ -76,7 +76,13 @@ user_groups:
 - Visitors
 ---
 
-I am a doctoral candidate in agricultural and consumer economics at the University of Illinois. I study the impacts of technological innovations in agricultural markets from Developed and Developing countries. I am on the 2023-2024 Job Market. 
+I am an applied microeconomist, and my research is related to the impact of technological innovations in Developed and Developing countries. I received my Ph.D. in Agricultural and Consumer Economics from the University of Illinois at Urbana-Champaign in Spring 2024.
+
+My current work examines how long-term corn–soybean rotation patterns affect corn yields and yield risk, with implications for incorporating crop rotations into crop insurance rating formulas. I use six-year crop histories to show that only a small subset of rotation sequences outperform corn monoculture in terms of higher mean yields and/or lower yield variance.
+
+My Job Market Paper dealt with the consequences of introducing genomic testing in the American dairy genetics market. I use matching and differences-in-differences methods to construct a set of synthetic lines to estimate the effect of genomic selection. My research on this topic fills a critical gap in the literature on the economic analysis of animal genetics markets; so far, Economists have paid little attention to using genetic traits and pedigree as explanatory factors for market outcomes.
+
+My other work has investigated topics such as hedonic pricing and climate adaptation. In another article, I study the introduction of crossbreeds to adapt cattle to climate change and how to tease out patterns of adoption for genetic traits by cattle ranchers in northern Argentina. I have also studied how farmers adapt to extreme weather events in Northern India by analyzing their response to floods, the likelihood of reporting such events, and how they impact farmers' welfare using flood extent data from NASA and ground-level data from a Randomized Controlled Trial.
 
 My Job Market paper can be found [here](files/job-market-paper.pdf). 
 

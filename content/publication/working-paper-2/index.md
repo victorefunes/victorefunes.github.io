@@ -1,13 +1,13 @@
 ---
-title: "Measuring Flood Resilience using Remote Sensors"
+title: "Assortative Mating and Household Income Inequality in Argentina"
 authors:
 - admin
 
-date: "2021-01-07T00:00:00Z"
+date: "2015-05-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2015-05-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: What are the effects of floods on reporting likelihood and observable outcomes? I examine this question in the context of a Randomized Control Trial (Shukla and Baylis, 2019) aimed at adopting a specific new technology for small-scale farmers in Bihar, India. I study two effects; first, to which extent adaptation to a regular rainfall pattern (the South Asian Monsoon) makes farmers under-report the impact of floods/heavy rainfall. To do so, I use inundation maps from satellite-measured floodwater to compare observed and reported floods. Second, given that I can determine which household lives near flooded areas, I measure their impact on food security outcomes. On the one hand, there is significant evidence in favor of under-reporting bias, but I also find little evidence of impacts on food security outcomes.
+abstract: This paper uses the decomposition method of (Greenwood et Al, 2014) to assess the contribution of *Assortative Mating* to household income inequality in Argentina. For this purpose, the Gini coefficient and contingency tables for spouses’ educational attainment are estimated to simulate the outcomes of random mating. Unlike Greenwood, we do not use IPUMS data due to the lack of availability of income data in the Argentine census; we resort instead to household surveys for 21 years. We find that Assortative Mating plays a minor role in the determination of household income inequality; despite explaining about 5% of household income inequality, results have very little robustness to changes in parameters and are also at odds with values of several sorting indicators which show a very modest increase.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-url_pdf: files/Remote_sensors.pdf
+url_pdf: files/assortative_mating.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -26,7 +26,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "University of Illinois"
+org_name = "University of Arkansas"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "PhD candidate in Agricultural and Consumer Economics"
+description = "PhD in Agricultural and Consumer Economics"
 
 ############################
 ## Site Features
@@ -88,16 +88,16 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "victorf2{at}illinois{dot}edu"
+email = "vf006{at}uark{dot}edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1301 W. Gregory Dr.", city = "Champaign", region = "IL", postcode = "61801", country = "United States", country_code = "US"}
+address = {street = "465 N. Campus Walk", city = "Fayetteville", region = "AR", postcode = "72701", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.104321", longitude = "-88.225937"}
+coordinates = {latitude = "36.0688116", longitude = "-94.1731437"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
