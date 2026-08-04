@@ -5,12 +5,28 @@
     <link>/tag/source-themes/</link>
       <atom:link href="/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Source Themes</title>
       <link>/tag/source-themes/</link>
     </image>
+    
+    <item>
+      <title>Crop Rotations, Transition Costs, and the Path Dependence of Farm Delinquency</title>
+      <link>/publication/working-paper-1/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/working-paper-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Flood Resilience using Remote Sensors</title>
+      <link>/publication/working-paper-4/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/working-paper-4/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Price of Fame: The Effect of Award-Winning Pedigrees on the Price of Livestock Genetics</title>
@@ -29,34 +45,26 @@
     </item>
     
     <item>
-      <title>Economic value of Brangus cattle traits in Argentina</title>
-      <link>/publication/published-paper-2/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/published-paper-2/</guid>
+      <title>After a Decade of Genomic Testing, Are Milk Yields Being Impacted?</title>
+      <link>/publication/published-paper-3/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/published-paper-3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>After a Decade of Genomic Testing, Are Milk Yields Being Impacted?</title>
-      <link>/publication/published-paper-3/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/published-paper-3/</guid>
+      <title>Economic value of Brangus cattle traits in Argentina</title>
+      <link>/publication/published-paper-2/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/published-paper-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecuaciones de Mincer de parejas bajo un esquema de seleccion muestral bivariada. Una aplicacion al caso argentino</title>
       <link>/publication/published-paper/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       <guid>/publication/published-paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Measuring Flood Resilience using Remote Sensors</title>
-      <link>/publication/working-paper-1/</link>
-      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/working-paper-1/</guid>
       <description></description>
     </item>
     

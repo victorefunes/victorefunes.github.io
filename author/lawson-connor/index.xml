@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lawson Connor | Job Candidate</title>
+    <link>/author/lawson-connor/</link>
+      <atom:link href="/author/lawson-connor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lawson Connor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Lawson Connor</title>
+      <link>/author/lawson-connor/</link>
+    </image>
+    
+    <item>
+      <title>Crop Rotations, Transition Costs, and the Path Dependence of Farm Delinquency</title>
+      <link>/publication/working-paper-1/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/working-paper-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
