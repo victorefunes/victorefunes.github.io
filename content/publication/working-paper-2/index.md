@@ -1,9 +1,17 @@
 ---
-title: "Assortative Mating and Household Income Inequality in Argentina"
+title: "Crop Insurance and the Pricing of Risk-Reducing Practices: Evidence from Rotational Complexity"
 authors:
+- Eunchun Park
+- Lawson Connor
 - admin
+- Frederi Viens
+- Gina Pizzo
+- Tyler Bagwell
+- Sam Manski
+- Aria MclAuchlan
+- Harley Cross
 
-date: "2015-05-15T00:00:00Z"
+date: "2024-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +27,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: This paper uses the decomposition method of (Greenwood et Al, 2014) to assess the contribution of *Assortative Mating* to household income inequality in Argentina. For this purpose, the Gini coefficient and contingency tables for spouses’ educational attainment are estimated to simulate the outcomes of random mating. Unlike Greenwood, we do not use IPUMS data due to the lack of availability of income data in the Argentine census; we resort instead to household surveys for 21 years. We find that Assortative Mating plays a minor role in the determination of household income inequality; despite explaining about 5% of household income inequality, results have very little robustness to changes in parameters and are also at odds with values of several sorting indicators which show a very modest increase.
+abstract: Under the Federal Crop Insurance Program, the Actual Production History (APH)--based Continuous Rating Formula (CRF) adjusts producer premiums mainly to unit-level average yield history, not unit-specific downside tail risk. We study how this structure prices risk-reducing practices whose insurance benefit is yield stabilization rather than mean-yield gains. We develop a CRF-consistent mean--tail decomposition and define a producer-facing pricing gap as expected indemnities from the full predictive yield distribution minus producer-paid CRF premiums. Applying the framework to rotational complexity in Illinois corn, we find that higher-complexity scenarios substantially reduce downside shortfalls while causing only modest mean-yield changes. Expected indemnities fall as lower-tail risk declines, but producer-paid premiums respond mainly to the APH mean and do not fall commensurately. Shapley decompositions show that gap changes are driven primarily by the tail channel, especially under dry conditions and higher coverage. The results highlight how APH-based rating can under-reward downside-risk-reducing practices.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -29,7 +37,7 @@ tags:
 featured: false
 
 links:
-url_pdf: files/assortative_mating.pdf
+url_pdf: files/crop_insurance_and_pricing.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

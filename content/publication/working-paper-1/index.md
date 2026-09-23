@@ -1,13 +1,15 @@
 ---
-title: "Measuring Flood Resilience using Remote Sensors"
+title: "Crop Rotations, Transition Costs, and the Path Dependence of Farm Delinquency"
 authors:
 - admin
+- Lawson Connor
+- Eunchun Park
 
-date: "2021-01-07T00:00:00Z"
+date: "2026-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2023-11-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +21,31 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: What are the effects of floods on reporting likelihood and observable outcomes? I examine this question in the context of a Randomized Control Trial (Shukla and Baylis, 2019) aimed at adopting a specific new technology for small-scale farmers in Bihar, India. I study two effects; first, to which extent adaptation to a regular rainfall pattern (the South Asian Monsoon) makes farmers under-report the impact of floods/heavy rainfall. To do so, I use inundation maps from satellite-measured floodwater to compare observed and reported floods. Second, given that I can determine which household lives near flooded areas, I measure their impact on food security outcomes. On the one hand, there is significant evidence in favor of under-reporting bias, but I also find little evidence of impacts on food security outcomes.
+abstract: >
+  Operating credit in row-crop agriculture is path-dependent: 
+  unpaid loan balances roll forward and compound, so a single bad year can 
+  initiate a multi-year delinquency spiral. Yet credit underwriting and crop 
+  insurance pricing treat farm revenue as an aggregate stream, ignoring how 
+  crop rotation history shapes both yield distributions and the cash-flow 
+  process that determines whether harvest revenue retires the operating loan. 
+  This paper develops a simulation framework that couples field-level, 
+  rotation-conditioned yield distributions, estimated from a fifteen-year 
+  Illinois corn panel, with an explicit operating-credit model that tracks 
+  origination, accrual, repayment, and balance rollover. Delinquency risk 
+  follows a sawtooth pattern: soybean-harvest years periodically retire 
+  accumulated rollover debt, reducing the six-year cumulative delinquency 
+  probability by up to 25 percentage points relative to continuous corn. 
+  A Shapley decomposition assigns 92-100 percent of delinquency risk to price 
+  uncertainty, with the natural price-yield hedge contributing only one to two 
+  percentage points (largely redundant where rotation has already reset the debt 
+  balance); rotation reduces this price-driven risk not by lowering price 
+  uncertainty but by restructuring the cost-and-debt path the price shocks 
+  propagate through. A comparison between independent and correlated price–yield 
+  draws shows the natural hedge contributes little; the debt-reset dynamics and 
+  yields confirms that the rotation channel operates via the timing of debt 
+  retirement, rather than an aggregate price effects. Rotation history is an 
+  observable risk factor that current credit and insurance instruments 
+  systematically ignore.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -29,7 +55,7 @@ tags:
 featured: false
 
 links:
-url_pdf: files/Remote_sensors.pdf
+url_pdf: 'files/crop_revenue_simulations.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
