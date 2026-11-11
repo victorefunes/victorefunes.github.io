@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Job Candidate</title>
+    <title>3 | Victor Funes-Leal</title>
     <link>/publication-type/3/</link>
       <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
@@ -17,6 +17,14 @@
       <link>/publication/working-paper-1/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <guid>/publication/working-paper-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competing for Quality: Coordination Failure in Dairy Genetics Markets</title>
+      <link>/publication/working-paper-6/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/working-paper-6/</guid>
       <description></description>
     </item>
     

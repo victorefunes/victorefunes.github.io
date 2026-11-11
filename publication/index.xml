@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Job Candidate</title>
+    <title>Publications | Victor Funes-Leal</title>
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
@@ -17,6 +17,30 @@
       <link>/publication/working-paper-1/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <guid>/publication/working-paper-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competing for Quality: Coordination Failure in Dairy Genetics Markets</title>
+      <link>/publication/working-paper-6/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/working-paper-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>After a Decade of Genomic Testing, Are Milk Yields Being Impacted?</title>
+      <link>/publication/published-paper-3/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/published-paper-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic value of Brangus cattle traits in Argentina</title>
+      <link>/publication/published-paper-2/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/published-paper-2/</guid>
       <description></description>
     </item>
     
@@ -45,34 +69,18 @@
     </item>
     
     <item>
-      <title>After a Decade of Genomic Testing, Are Milk Yields Being Impacted?</title>
-      <link>/publication/published-paper-3/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/published-paper-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Economic value of Brangus cattle traits in Argentina</title>
-      <link>/publication/published-paper-2/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/published-paper-2/</guid>
+      <title>Measuring Flood Resilience using Remote Sensors</title>
+      <link>/publication/working-paper-4/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/working-paper-4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecuaciones de Mincer de parejas bajo un esquema de seleccion muestral bivariada. Una aplicacion al caso argentino</title>
       <link>/publication/published-paper/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/publication/published-paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Measuring Flood Resilience using Remote Sensors</title>
-      <link>/publication/working-paper-4/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/working-paper-4/</guid>
       <description></description>
     </item>
     
